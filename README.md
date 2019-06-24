@@ -18,7 +18,7 @@ Make sure [Node](https://nodejs.org/en/) is installed in your machine.
 
 First, clone the project and then run `npm install`
 
-Once everything's installed, run `npm start` then go to `http://localhost:1234`
+Once everything's installed, run `npm start` then go to [http://localhost:1234](http://localhost:1234)
 
 ## Built With
 
