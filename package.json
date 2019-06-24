@@ -12,12 +12,15 @@
 		"data visualization"
 	],
 	"author": "Arnold Odhiambo",
-	"license": "ISC",
+	"license": "MIT",
 	"dependencies": {
 		"d": "^1.0.1",
 		"d3": "^5.9.2"
 	},
 	"devDependencies": {
+		"eslint": "^5.16.0",
+		"eslint-config-airbnb-base": "^13.1.0",
+		"eslint-plugin-import": "^2.17.3",
 		"parcel-bundler": "^1.12.3"
 	}
 }
